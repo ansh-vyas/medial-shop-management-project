@@ -1,0 +1,1 @@
+# medial-shop-management-project
